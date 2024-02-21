@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class DestroyComponent : MonoBehaviour
 {
-
     // Update is called once per frame
     void Update()
     {
